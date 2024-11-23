@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "310705503644",
+    "project_id": "ctmaxxauth",
+    "storage_bucket": "ctmaxxauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310705503644:android:8b84a747ffb2cb04a71c59",
+        "android_client_info": {
+          "package_name": "ctmaxx.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSeX88ySzYkKBp7-UEaf7a_jpBSzGA1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
